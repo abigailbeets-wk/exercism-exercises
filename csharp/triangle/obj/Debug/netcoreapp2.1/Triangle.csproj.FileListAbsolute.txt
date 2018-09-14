@@ -1,0 +1,14 @@
+/Users/abigailbeets/Exercism/csharp/triangle/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/abigailbeets/Exercism/csharp/triangle/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/triangle/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/triangle/bin/Debug/netcoreapp2.1/Triangle.deps.json
+/Users/abigailbeets/Exercism/csharp/triangle/bin/Debug/netcoreapp2.1/Triangle.runtimeconfig.json
+/Users/abigailbeets/Exercism/csharp/triangle/bin/Debug/netcoreapp2.1/Triangle.runtimeconfig.dev.json
+/Users/abigailbeets/Exercism/csharp/triangle/bin/Debug/netcoreapp2.1/Triangle.dll
+/Users/abigailbeets/Exercism/csharp/triangle/bin/Debug/netcoreapp2.1/Triangle.pdb
+/Users/abigailbeets/Exercism/csharp/triangle/obj/Debug/netcoreapp2.1/Triangle.csprojAssemblyReference.cache
+/Users/abigailbeets/Exercism/csharp/triangle/obj/Debug/netcoreapp2.1/Triangle.csproj.CoreCompileInputs.cache
+/Users/abigailbeets/Exercism/csharp/triangle/obj/Debug/netcoreapp2.1/Triangle.AssemblyInfoInputs.cache
+/Users/abigailbeets/Exercism/csharp/triangle/obj/Debug/netcoreapp2.1/Triangle.AssemblyInfo.cs
+/Users/abigailbeets/Exercism/csharp/triangle/obj/Debug/netcoreapp2.1/Triangle.dll
+/Users/abigailbeets/Exercism/csharp/triangle/obj/Debug/netcoreapp2.1/Triangle.pdb
