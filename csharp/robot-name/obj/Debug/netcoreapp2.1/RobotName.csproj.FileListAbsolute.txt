@@ -1,0 +1,14 @@
+/Users/abigailbeets/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/abigailbeets/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.deps.json
+/Users/abigailbeets/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.runtimeconfig.json
+/Users/abigailbeets/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.runtimeconfig.dev.json
+/Users/abigailbeets/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.dll
+/Users/abigailbeets/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.pdb
+/Users/abigailbeets/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.csprojAssemblyReference.cache
+/Users/abigailbeets/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.csproj.CoreCompileInputs.cache
+/Users/abigailbeets/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.AssemblyInfoInputs.cache
+/Users/abigailbeets/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.AssemblyInfo.cs
+/Users/abigailbeets/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.dll
+/Users/abigailbeets/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.pdb

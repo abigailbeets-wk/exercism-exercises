@@ -1,0 +1,14 @@
+/Users/abigailbeets/Exercism/csharp/rna-transcription/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/abigailbeets/Exercism/csharp/rna-transcription/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/rna-transcription/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/rna-transcription/bin/Debug/netcoreapp2.1/RnaTranscription.deps.json
+/Users/abigailbeets/Exercism/csharp/rna-transcription/bin/Debug/netcoreapp2.1/RnaTranscription.runtimeconfig.json
+/Users/abigailbeets/Exercism/csharp/rna-transcription/bin/Debug/netcoreapp2.1/RnaTranscription.runtimeconfig.dev.json
+/Users/abigailbeets/Exercism/csharp/rna-transcription/bin/Debug/netcoreapp2.1/RnaTranscription.dll
+/Users/abigailbeets/Exercism/csharp/rna-transcription/bin/Debug/netcoreapp2.1/RnaTranscription.pdb
+/Users/abigailbeets/Exercism/csharp/rna-transcription/obj/Debug/netcoreapp2.1/RnaTranscription.csprojAssemblyReference.cache
+/Users/abigailbeets/Exercism/csharp/rna-transcription/obj/Debug/netcoreapp2.1/RnaTranscription.csproj.CoreCompileInputs.cache
+/Users/abigailbeets/Exercism/csharp/rna-transcription/obj/Debug/netcoreapp2.1/RnaTranscription.AssemblyInfoInputs.cache
+/Users/abigailbeets/Exercism/csharp/rna-transcription/obj/Debug/netcoreapp2.1/RnaTranscription.AssemblyInfo.cs
+/Users/abigailbeets/Exercism/csharp/rna-transcription/obj/Debug/netcoreapp2.1/RnaTranscription.dll
+/Users/abigailbeets/Exercism/csharp/rna-transcription/obj/Debug/netcoreapp2.1/RnaTranscription.pdb

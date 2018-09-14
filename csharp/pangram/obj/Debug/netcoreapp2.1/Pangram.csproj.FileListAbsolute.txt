@@ -1,0 +1,14 @@
+/Users/abigailbeets/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/abigailbeets/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/Pangram.deps.json
+/Users/abigailbeets/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/Pangram.runtimeconfig.json
+/Users/abigailbeets/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/Pangram.runtimeconfig.dev.json
+/Users/abigailbeets/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/Pangram.dll
+/Users/abigailbeets/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/Pangram.pdb
+/Users/abigailbeets/Exercism/csharp/pangram/obj/Debug/netcoreapp2.1/Pangram.csprojAssemblyReference.cache
+/Users/abigailbeets/Exercism/csharp/pangram/obj/Debug/netcoreapp2.1/Pangram.csproj.CoreCompileInputs.cache
+/Users/abigailbeets/Exercism/csharp/pangram/obj/Debug/netcoreapp2.1/Pangram.AssemblyInfoInputs.cache
+/Users/abigailbeets/Exercism/csharp/pangram/obj/Debug/netcoreapp2.1/Pangram.AssemblyInfo.cs
+/Users/abigailbeets/Exercism/csharp/pangram/obj/Debug/netcoreapp2.1/Pangram.dll
+/Users/abigailbeets/Exercism/csharp/pangram/obj/Debug/netcoreapp2.1/Pangram.pdb

@@ -1,0 +1,14 @@
+/Users/abigailbeets/Exercism/csharp/reverse-string/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/abigailbeets/Exercism/csharp/reverse-string/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/reverse-string/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/reverse-string/bin/Debug/netcoreapp2.1/ReverseString.deps.json
+/Users/abigailbeets/Exercism/csharp/reverse-string/bin/Debug/netcoreapp2.1/ReverseString.runtimeconfig.json
+/Users/abigailbeets/Exercism/csharp/reverse-string/bin/Debug/netcoreapp2.1/ReverseString.runtimeconfig.dev.json
+/Users/abigailbeets/Exercism/csharp/reverse-string/bin/Debug/netcoreapp2.1/ReverseString.dll
+/Users/abigailbeets/Exercism/csharp/reverse-string/bin/Debug/netcoreapp2.1/ReverseString.pdb
+/Users/abigailbeets/Exercism/csharp/reverse-string/obj/Debug/netcoreapp2.1/ReverseString.csprojAssemblyReference.cache
+/Users/abigailbeets/Exercism/csharp/reverse-string/obj/Debug/netcoreapp2.1/ReverseString.csproj.CoreCompileInputs.cache
+/Users/abigailbeets/Exercism/csharp/reverse-string/obj/Debug/netcoreapp2.1/ReverseString.AssemblyInfoInputs.cache
+/Users/abigailbeets/Exercism/csharp/reverse-string/obj/Debug/netcoreapp2.1/ReverseString.AssemblyInfo.cs
+/Users/abigailbeets/Exercism/csharp/reverse-string/obj/Debug/netcoreapp2.1/ReverseString.dll
+/Users/abigailbeets/Exercism/csharp/reverse-string/obj/Debug/netcoreapp2.1/ReverseString.pdb

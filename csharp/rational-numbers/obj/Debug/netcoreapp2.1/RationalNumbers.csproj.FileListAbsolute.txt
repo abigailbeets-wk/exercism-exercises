@@ -1,0 +1,14 @@
+/Users/abigailbeets/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/abigailbeets/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.1/RationalNumbers.deps.json
+/Users/abigailbeets/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.1/RationalNumbers.runtimeconfig.json
+/Users/abigailbeets/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.1/RationalNumbers.runtimeconfig.dev.json
+/Users/abigailbeets/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.1/RationalNumbers.dll
+/Users/abigailbeets/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.1/RationalNumbers.pdb
+/Users/abigailbeets/Exercism/csharp/rational-numbers/obj/Debug/netcoreapp2.1/RationalNumbers.csprojAssemblyReference.cache
+/Users/abigailbeets/Exercism/csharp/rational-numbers/obj/Debug/netcoreapp2.1/RationalNumbers.csproj.CoreCompileInputs.cache
+/Users/abigailbeets/Exercism/csharp/rational-numbers/obj/Debug/netcoreapp2.1/RationalNumbers.AssemblyInfoInputs.cache
+/Users/abigailbeets/Exercism/csharp/rational-numbers/obj/Debug/netcoreapp2.1/RationalNumbers.AssemblyInfo.cs
+/Users/abigailbeets/Exercism/csharp/rational-numbers/obj/Debug/netcoreapp2.1/RationalNumbers.dll
+/Users/abigailbeets/Exercism/csharp/rational-numbers/obj/Debug/netcoreapp2.1/RationalNumbers.pdb

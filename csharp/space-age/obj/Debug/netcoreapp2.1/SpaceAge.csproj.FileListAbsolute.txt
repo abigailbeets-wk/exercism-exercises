@@ -1,0 +1,14 @@
+/Users/abigailbeets/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/abigailbeets/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/SpaceAge.deps.json
+/Users/abigailbeets/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/SpaceAge.runtimeconfig.json
+/Users/abigailbeets/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/SpaceAge.runtimeconfig.dev.json
+/Users/abigailbeets/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/SpaceAge.dll
+/Users/abigailbeets/Exercism/csharp/space-age/bin/Debug/netcoreapp2.1/SpaceAge.pdb
+/Users/abigailbeets/Exercism/csharp/space-age/obj/Debug/netcoreapp2.1/SpaceAge.csprojAssemblyReference.cache
+/Users/abigailbeets/Exercism/csharp/space-age/obj/Debug/netcoreapp2.1/SpaceAge.csproj.CoreCompileInputs.cache
+/Users/abigailbeets/Exercism/csharp/space-age/obj/Debug/netcoreapp2.1/SpaceAge.AssemblyInfoInputs.cache
+/Users/abigailbeets/Exercism/csharp/space-age/obj/Debug/netcoreapp2.1/SpaceAge.AssemblyInfo.cs
+/Users/abigailbeets/Exercism/csharp/space-age/obj/Debug/netcoreapp2.1/SpaceAge.dll
+/Users/abigailbeets/Exercism/csharp/space-age/obj/Debug/netcoreapp2.1/SpaceAge.pdb

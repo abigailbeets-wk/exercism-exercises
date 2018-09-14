@@ -1,0 +1,14 @@
+/Users/abigailbeets/Exercism/csharp/hamming/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/abigailbeets/Exercism/csharp/hamming/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/hamming/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/abigailbeets/Exercism/csharp/hamming/bin/Debug/netcoreapp2.1/Hamming.deps.json
+/Users/abigailbeets/Exercism/csharp/hamming/bin/Debug/netcoreapp2.1/Hamming.runtimeconfig.json
+/Users/abigailbeets/Exercism/csharp/hamming/bin/Debug/netcoreapp2.1/Hamming.runtimeconfig.dev.json
+/Users/abigailbeets/Exercism/csharp/hamming/bin/Debug/netcoreapp2.1/Hamming.dll
+/Users/abigailbeets/Exercism/csharp/hamming/bin/Debug/netcoreapp2.1/Hamming.pdb
+/Users/abigailbeets/Exercism/csharp/hamming/obj/Debug/netcoreapp2.1/Hamming.csprojAssemblyReference.cache
+/Users/abigailbeets/Exercism/csharp/hamming/obj/Debug/netcoreapp2.1/Hamming.csproj.CoreCompileInputs.cache
+/Users/abigailbeets/Exercism/csharp/hamming/obj/Debug/netcoreapp2.1/Hamming.AssemblyInfoInputs.cache
+/Users/abigailbeets/Exercism/csharp/hamming/obj/Debug/netcoreapp2.1/Hamming.AssemblyInfo.cs
+/Users/abigailbeets/Exercism/csharp/hamming/obj/Debug/netcoreapp2.1/Hamming.dll
+/Users/abigailbeets/Exercism/csharp/hamming/obj/Debug/netcoreapp2.1/Hamming.pdb
